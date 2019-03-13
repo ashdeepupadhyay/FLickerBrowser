@@ -1,1 +1,1 @@
-# FLickrBrowser
+# FLickerBrowser
